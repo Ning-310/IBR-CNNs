@@ -37,6 +37,6 @@ The main requirements are listed below:
 
     The code is used to illustrate the receiver operating characteristic (ROC) curve based on sensitivity and 1-specificity scores, and compute the AUC value.
 
-* model.model 
+* IBR-CNNs.model 
 
     The model of IBR-CNNs.
