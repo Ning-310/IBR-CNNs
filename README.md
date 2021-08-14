@@ -15,15 +15,15 @@ The main requirements are listed below:
 * Pandas
 
 
-## The description of iBM source
+## The description of IBR-CNNs source
 
 * processing.py
 
-    The code is used to thermal proteomics data preprocessing.
+    The code is used for thermal proteomics data preprocessing.
 
 * IBR.py
 
-    The code is used to imaging-based representation of thermal proteomes.
+    The code is used for imaging-based representation of thermal proteomes.
 
 * CNNs.py
 
@@ -31,7 +31,7 @@ The main requirements are listed below:
 
 * evaluate.py
 
-    The code is used to model evaluation.
+    The code is used for model evaluation.
 
 * ROC.py
 
